@@ -1,0 +1,17 @@
+============================================================
+NEUROMORPHIC COMPUTING - CLASSIFICATION METRICS SUMMARY
+============================================================
+
+Overall Metrics:
+------------------------------------------------------------
+Accuracy:           0.8941
+Precision (Macro):  0.9010
+Precision (Weighted): 0.8994
+Recall (Macro):     0.8924
+Recall (Weighted):  0.8941
+F1-Score (Macro):   0.8945
+F1-Score (Weighted): 0.8944
+ROC-AUC (Macro):    0.9849
+ROC-AUC (Weighted): 0.9849
+
+============================================================
