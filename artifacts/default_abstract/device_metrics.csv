@@ -1,0 +1,2 @@
+G_plus_min,G_plus_max,G_minus_min,G_minus_max,n_states,delta_G_plus,delta_G_minus,W_min_phys,W_max_phys,W_range,dynamic_range_pct,NL_plus,NL_minus,symmetry_error,beta_plus,beta_minus,W_sign_cross
+0.00053,0.0005715,0.000358575,0.0004455,50,4.149999999999998e-05,8.692500000000001e-05,8.45e-05,0.00021292499999999998,0.000128425,86.35790535429099,0.19397590361445846,0.22609861891262098,0.03212271529816252,3.0,4.327409349413105,False

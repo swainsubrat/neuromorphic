@@ -1,0 +1,2 @@
+G_plus_min,G_plus_max,G_minus_min,G_minus_max,n_states,delta_G_plus,delta_G_minus,W_min_phys,W_max_phys,W_range,dynamic_range_pct,NL_plus,NL_minus,symmetry_error,beta_plus,beta_minus,mean_sat_ltp,mean_sat_ltd,asym_correction,W_sign_cross
+0.000371,0.0004575,0.0003773,0.0004214,50,8.649999999999999e-05,4.409999999999999e-05,-5.039999999999998e-05,8.02e-05,0.00013059999999999998,876.5100671140926,0.3415028901734102,0.04984126984126986,0.2916616203321403,3.0,3.0,0.3169460375586734,0.3169460375586734,0.9999999996844888,True
